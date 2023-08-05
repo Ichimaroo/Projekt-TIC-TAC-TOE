@@ -4,10 +4,11 @@ import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProjektTicTacToeApplicationTests {
+class ProjectTicTacToeApplicationTests {
 
     @Test
-    void contextLoads() {
+    void playerOWinsInRows {
     }
+    //Given
 
 }
